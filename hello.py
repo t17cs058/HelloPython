@@ -3,18 +3,6 @@ Created on 2019/10/09
 
 @author: t17cs058
 '''
-print("Hello, Python world!")
-
-a = 10
-b = 0.000001
-c = "string"
-d = 10; e = 0.000001; f = "string"
-
-# This is comment
-
-print(a, b, c)
-print(d, e, f)
-
 D = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 }
 Nd = { 1, 2, 3, 4, 5, 6, 7, 8, 9 }
 
